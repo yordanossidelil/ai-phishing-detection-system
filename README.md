@@ -1,25 +1,25 @@
-# 🛡️ AI-Based Phishing Detection and Prevention System
+#  AI-Based Phishing Detection and Prevention System
 
 An AI-powered web application that detects phishing emails, messages, and URLs using Machine Learning and NLP. Supports **English**, **Amharic (አማርኛ)**, and **Afaan Oromo** with automatic language detection.
 
 ---
 
-## ✨ Features
+##  Features
 
 | Feature | Details |
 |---------|---------|
-| 🤖 ML Detection | Logistic Regression + Naive Bayes with TF-IDF |
-| 🌍 Multilingual | English, Amharic, Afaan Oromo (auto-detect) |
-| 📊 Dashboard | Stats, weekly charts, recent activity |
-| 🔐 Auth | JWT authentication, role-based access |
-| 🚦 Rate Limiting | 30 req/min per IP |
-| 🔍 Explainable AI | Reasons for every classification |
-| 🌐 REST API | FastAPI with auto-generated Swagger docs |
-| 🗄️ Database | MongoDB Atlas |
+|  ML Detection | Logistic Regression + Naive Bayes with TF-IDF |
+|  Multilingual | English, Amharic, Afaan Oromo (auto-detect) |
+|  Dashboard | Stats, weekly charts, recent activity |
+|  Auth | JWT authentication, role-based access |
+|  Rate Limiting | 30 req/min per IP |
+|  Explainable AI | Reasons for every classification |
+|  REST API | FastAPI with auto-generated Swagger docs |
+|  Database | MongoDB Atlas |
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 ai-phishing-detection-system/
@@ -55,7 +55,7 @@ ai-phishing-detection-system/
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.11+
@@ -108,7 +108,7 @@ docker-compose up --build
 
 ---
 
-## 🧠 ML Pipeline
+## ML Pipeline
 
 ```
 Input Text
@@ -134,7 +134,7 @@ Output: { prediction, confidence, explanation, language }
 
 ---
 
-## 🌍 Multilingual Examples
+##  Multilingual Examples
 
 **English:**
 ```
@@ -173,7 +173,7 @@ Full docs: `http://localhost:8000/docs`
 
 ---
 
-## 🗄️ Database Schema (MongoDB)
+##  Database Schema (MongoDB)
 
 - **users** — username, email, password_hash, role
 - **analysis_results** — text, prediction, confidence, explanation, language, features
@@ -182,7 +182,7 @@ Full docs: `http://localhost:8000/docs`
 
 ---
 
-## 🔐 Security
+##  Security
 
 - JWT tokens (HS256, 60min expiry)
 - Bcrypt password hashing
@@ -193,7 +193,7 @@ Full docs: `http://localhost:8000/docs`
 
 ---
 
-## 📦 Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
