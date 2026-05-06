@@ -69,10 +69,9 @@ git clone <repo>
 cd ai-phishing-detection-system
 ```
 
-Edit `backend/.env`:
-```env
-MONGODB_URL=mongodb+srv://yordi:<password>@cluster0.cqujev3.mongodb.net/?appName=Cluster0
-SECRET_KEY=your-secret-key-here
+Copy the example env file and fill in your credentials:
+```bash
+cp backend/.env.example backend/.env
 ```
 
 ### 2. Train the ML Model
