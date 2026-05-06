@@ -1,0 +1,51 @@
+text,label
+"Congratulations! You've won $1,000,000. Click here to claim your prize now: http://fake-prize.com/claim",phishing
+"URGENT: Your bank account has been suspended. Verify immediately at http://secure-bank-login.xyz",phishing
+"Your PayPal account is limited. Please confirm your identity: http://paypal-secure.fake.com/verify",phishing
+"Dear customer, your Amazon order has been placed. Track it here: http://amazon.com/orders",legitimate
+"Meeting reminder: Team standup at 10am tomorrow. See you then!",legitimate
+"Your Netflix subscription has been renewed. Amount: $15.99. Thank you for being a member.",legitimate
+"ALERT: Suspicious login detected on your account. Click to secure: http://google-security.phish.net",phishing
+"Hi John, can you review the attached document before our meeting? Thanks, Sarah",legitimate
+"Your password will expire in 24 hours. Update now: http://microsoft-update.fake.org/password",phishing
+"Invoice #12345 attached for your review. Payment due by end of month.",legitimate
+"You have been selected for a FREE iPhone 15! Claim at: http://free-iphone-winner.com/get",phishing
+"Quarterly report is ready. Please find it attached to this email.",legitimate
+"IMMEDIATE ACTION REQUIRED: Your account will be deleted unless you verify: http://verify-now.scam.com",phishing
+"Hello, this is a reminder about your dentist appointment on Friday at 2pm.",legitimate
+"Your credit card has been charged $500. If not you, click here: http://bank-dispute.fake.net",phishing
+"The project deadline has been extended to next Friday. Please update your tasks accordingly.",legitimate
+"WIN BIG! You are our lucky winner. Send your details to claim@prize-winner.net",phishing
+"Please find the minutes from yesterday's board meeting attached.",legitimate
+"Security breach detected! Your data is at risk. Protect yourself: http://security-alert.phish.com",phishing
+"Your flight booking confirmation: Flight AA123 on Dec 15. Check-in opens 24hrs before.",legitimate
+"Verify your email or lose access forever: http://email-verify.scam.org/confirm",phishing
+"Happy birthday! Hope you have a wonderful day.",legitimate
+"Your loan application has been approved! Get $50,000 instantly: http://easy-loans.fake.com",phishing
+"The weekly newsletter is attached. Have a great weekend!",legitimate
+"FINAL WARNING: Pay overdue balance or face legal action: http://debt-collect.scam.net",phishing
+"Your order has shipped. Expected delivery: 3-5 business days.",legitimate
+"Click here to unsubscribe from all spam: http://unsubscribe-all.phish.com/remove",phishing
+"Team lunch is scheduled for Thursday at noon. Please RSVP by Wednesday.",legitimate
+"Your account has been hacked! Change password immediately: http://account-recovery.fake.org",phishing
+"Attached is the contract for your review. Please sign and return by EOD.",legitimate
+"አካውንትዎ ተዘግቷል እባክዎ እዚህ ይጫኑ http://fake-ethiopian-bank.com/verify",phishing
+"ሰላም፣ ስብሰባው ነገ ጠዋት ሰዓት 3 ላይ ነው።",legitimate
+"Herregaa! Maallaqa kee hunda argatta. Asitti cuqaasi: http://maallaqa-free.com/fudhu",phishing
+"Walgahiin boru sa'aatii 10tti ni taa'a. Maaloo dhufaa.",legitimate
+"Lakkoofsi iccitii kee jijjiirameera. Yoo ati hintaane ta'e asitti cuqaasi: http://iccitii-haaromsi.fake.com",phishing
+"Gabaasni torban kanaa qophaa'eera. Ilaalaa.",legitimate
+"FREE money transfer! Send your bank details to: transfer@money-free.scam.net",phishing
+"Your subscription renewal is confirmed. No action needed.",legitimate
+"WINNER NOTIFICATION: You won the lottery! Claim prize: http://lottery-winner.fake.com/claim",phishing
+"Please review the attached proposal and share your feedback.",legitimate
+"Your Apple ID has been locked. Unlock at: http://apple-id-unlock.phish.net",phishing
+"Conference call details: Join at 3pm using code 12345.",legitimate
+"Earn $5000 per week working from home! Register: http://work-from-home.scam.com",phishing
+"The updated policy document is attached for your reference.",legitimate
+"Your package could not be delivered. Reschedule: http://delivery-reschedule.fake.org",phishing
+"Reminder: Your annual performance review is next week.",legitimate
+"Claim your tax refund of $2,340: http://tax-refund-gov.fake.com/claim",phishing
+"The budget spreadsheet has been updated. Please review.",legitimate
+"Your social security number has been compromised! Act now: http://ssa-protect.scam.net",phishing
+"Looking forward to seeing you at the conference next month.",legitimate
